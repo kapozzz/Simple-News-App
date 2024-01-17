@@ -3,7 +3,7 @@ width="200"
     hspace="10" vspace="10">](images/screenshot1.png)
 
 Description:
-- a test case somewhere
+- An Android mobile app that displays a list of recent listings from Bybit's API.
 
 Technologies:
 - Jetpack Compose
