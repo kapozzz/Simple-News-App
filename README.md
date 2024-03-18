@@ -1,16 +1,14 @@
-[<img src="screenshots/main_screen.png" align="center"
+[<img src="images/scr1app.jpg" align="center"
 width="200"
     hspace="10" vspace="10">](images/screenshot1.png)
 
 Description:
-- An Android mobile app that displays a list of various products.
+- An Android mobile app that displays a list of recent listings from Bybit's API.
 
 Technologies:
 - Jetpack Compose
-- Room
 - Retrofit
-- Coil
 - Hilt
-- Kotlin Coroutines + Flow
+- Kotlin Coroutines 
 
 Clean architecture + MVI
